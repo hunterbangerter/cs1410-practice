@@ -8,7 +8,6 @@ include_directories(include)
 
 add_executable(main src/main.cpp)
 add_executable(ex01 src/ex01.cpp)
-<<<<<<< HEAD
-=======
 add_executable(ex02 src/ex02.cpp)
->>>>>>> c886d65 (finished ex01)
+add_executable(ex0201 src/ex0201.cpp)
+add_executable(ex0202 src/ex0202.cpp)
